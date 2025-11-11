@@ -42,7 +42,6 @@ numeric_summary
 
 # Operation 1: Filter out aggregate regions (geographic, economic, political, global) and change column names
 covid_processed <- covid_tidy %>%
-  # Use filter() to remove aggregate regions in the original data source
   filter(!location %in% c(
     "World",
     "Africa", "Asia", "Europe", "North America", "South America", "Oceania",
