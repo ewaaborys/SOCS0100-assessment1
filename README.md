@@ -1,2 +1,2 @@
 # SOCS0100-assessment1
-COVID-19 Cases and Deaths Data Analysis
+This folder contains all materials to reproduce the SOCS0100 Assignment 1 report on COVID-19 cases and deaths. The analysis covers data wrangling, functional programming and visualisation tasks using R and Quarto.
